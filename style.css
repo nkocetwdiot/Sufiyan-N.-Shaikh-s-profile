@@ -1,0 +1,28 @@
+body{font-family: sans-serif; margin: 0;
+padding: 0;line-height:1.6; background-color: antiquewhite;
+border-radius: 15%;
+}
+header{
+    background-color:brown;
+    color:burlywood;
+    padding:1rem;
+text-align: center;
+}
+nav{background-color: burlywood;
+    color: antiquewhite;
+    padding: 1rem;
+    text-align: center;
+
+}
+nav a 
+    {color: antiquewhite;
+        margin: 0.15px;
+        text-decoration: none;}
+nav a 
+{text-decoration:underline;}
+
+img 
+{
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;}
